@@ -1,0 +1,20 @@
+package br.com.alura.screenmatch.calculos;
+
+import br.com.alura.screenmath.modelos.Titulo;
+
+public class CalcularodaDeTempo {
+    private int tempoTotal;
+
+    public int getTempoTotal() {
+        return tempoTotal;
+    }
+
+    public void inclui(Titulo titulo) {
+        tempoTotal += titulo.getDuracaoEmMinutos();
+    }
+
+
+
+
+}
+
