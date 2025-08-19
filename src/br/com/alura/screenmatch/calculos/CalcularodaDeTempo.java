@@ -1,6 +1,6 @@
 package br.com.alura.screenmatch.calculos;
 
-import br.com.alura.screenmath.modelos.Titulo;
+import br.com.alura.screenmatch.modelos.Titulo;
 
 public class CalcularodaDeTempo {
     private int tempoTotal;

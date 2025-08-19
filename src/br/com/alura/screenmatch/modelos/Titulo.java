@@ -1,4 +1,4 @@
-package br.com.alura.screenmath.modelos;
+package br.com.alura.screenmatch.modelos;
 
 public class Titulo {
 

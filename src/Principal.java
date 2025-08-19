@@ -1,8 +1,8 @@
 import br.com.alura.screenmatch.calculos.CalcularodaDeTempo;
 import br.com.alura.screenmatch.calculos.FiltroRecomendacoes;
-import br.com.alura.screenmath.modelos.Episodio;
-import br.com.alura.screenmath.modelos.Filme;
-import br.com.alura.screenmath.modelos.Serie;
+import br.com.alura.screenmatch.modelos.Episodio;
+import br.com.alura.screenmatch.modelos.Filme;
+import br.com.alura.screenmatch.modelos.Serie;
 
 public class Principal {
     public static void main(String[] args) {
